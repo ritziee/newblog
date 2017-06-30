@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # blog
 This application was generated using JHipster 4.5.6, you can find documentation and help at [https://jhipster.github.io/documentation-archive/v4.5.6](https://jhipster.github.io/documentation-archive/v4.5.6).
 
@@ -115,3 +116,7 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [Leaflet]: http://leafletjs.com/
 [DefinitelyTyped]: http://definitelytyped.org/
 # blog
+=======
+# newblog
+a new blog
+>>>>>>> 3e9e76db8c00586e9d99a8f77b212659006e4ab5
