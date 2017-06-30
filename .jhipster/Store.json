@@ -1,0 +1,22 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "publishers",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "history",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20170628192106",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "store",
+    "pagination": "no"
+}

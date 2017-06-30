@@ -1,0 +1,20 @@
+{
+    "blogApp": {
+        "rdr" : {
+            "home": {
+                "title": "Rdrs",
+                "createLabel": "Create a new Rdr",
+                "createOrEditLabel": "Create or edit a Rdr"
+            },
+            "created": "A new Rdr is created with identifier {{ param }}",
+            "updated": "A Rdr is updated with identifier {{ param }}",
+            "deleted": "A Rdr is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Rdr {{ id }}?"
+            },
+            "detail": {
+                "title": "Rdr"
+            }
+        }
+    }
+}

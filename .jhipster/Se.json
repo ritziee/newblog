@@ -1,0 +1,18 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "invent",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        }
+    ],
+    "changelogDate": "20170629045927",
+    "dto": "no",
+    "service": "serviceImpl",
+    "entityTableName": "se",
+    "pagination": "no"
+}
